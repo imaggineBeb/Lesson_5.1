@@ -312,3 +312,28 @@ footer p {
 .right {
 	text-align: right;
 }
+
+.queen img {
+	width: 50%;
+}
+
+.queen p {
+	line-height: 1.2;
+	padding: 50px 0px 0px 20px;
+	font-family: "Rubik";
+	font-style: italic;
+	font-size: 40px;
+	color: rgb(207, 76, 98);
+	width: 40%;
+	display: inline-block;
+	margin: 20% 0px 0px 20px;
+}
+.center-queen {
+	font-size: 30px;
+	font-family: "Jojo", "Rubik";
+}
+
+.go {
+	font-size: 25px;
+	color: rgb(212, 96, 115);
+}
